@@ -1,5 +1,7 @@
 # reactotron-core-client
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/admmasters/reactotron-core-client-fork.svg)](https://greenkeeper.io/)
+
 This provides the core functionality of the clients allowing it talk to talk to the server.
 
 It is used by `reactotron-react-dom` and `reactotron-react-native`.
